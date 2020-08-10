@@ -51,7 +51,8 @@ template {
 }
 
 a {
-    background-color: transparent
+    background-color: transparent;
+    font-weight: bold
 }
 
 a:active,
