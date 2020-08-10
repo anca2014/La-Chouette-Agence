@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3D66C!important;
 }
 
 .btn-atomic-tangerine {
@@ -810,7 +810,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.jpg");
 }
 
 .bg-lines-h2-bg {
@@ -831,7 +831,7 @@ h4 {
 }
 .text-center:hover
 {
-    transform:scale(1.5);
+    transform:scale(1.2);
 }
 .zoom:hover
 {
